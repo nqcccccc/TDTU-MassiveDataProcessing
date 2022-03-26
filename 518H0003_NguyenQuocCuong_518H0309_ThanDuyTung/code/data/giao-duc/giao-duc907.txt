@@ -1,0 +1,1 @@
+Cho dãy số 1, 2, 4, 6, 10, 12, 16, 18, 22. Trong 30 giây, bạn hãy tìm quy luật của chúng và điền hai số tiếp theo.Bạn hãy tìm quy luật của dãy số bên dưới và điền hai số tiếp theo.Hãy điền số thích hợp vào dấu hỏi chấm.Hãy đưa ra kết quả chính xác cho phép tính bên dưới.Theo 

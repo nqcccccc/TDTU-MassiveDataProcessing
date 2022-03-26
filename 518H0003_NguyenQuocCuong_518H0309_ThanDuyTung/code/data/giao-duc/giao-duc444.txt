@@ -1,0 +1,1 @@
+Liệu bạn có thể giải bài toán dành cho học sinh giỏi lớp 5 của Trung Quốc trong vòng 5 phút không?Cho hình bình hành ABCD và các điểm M, N, P lần lượt nằm trên 3 cạnh AB, BC, CD.Các đoạn thẳng MD, MP, BP, NA, ND tạo ra các hình màu vàng có diện tích là 79, 72, 10, 8. Tính diện tích hình tam giác màu đỏ chứa cạnh AM như trong hình vẽ?

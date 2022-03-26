@@ -1,0 +1,12 @@
+Bạn hãy giúp thám tử giải mã thông điệp của kẻ sát nhân và lý giải vụ án bí ẩn trong phòng chứa đồ.Phòng chứa đồ trong nhà James được khóa bằng loại ổ khóa có thể đóng mà không cần chìa, nhưng phải có chìa mới mở được. James giữ chìa khóa và đảm bảo không có chìa phụ. Một hôm, James quyết định chuyển đồ cũ vào kho. Sau khi xếp đồ cẩn thận, James khóa cửa lại. Hôm sau, một thi thể được tìm thấy trong phòng chứa đồ đóng kín.Vì chỉ James có chìa khóa và anh sống một mình, cảnh sát nghi ngờ James là kẻ sát nhân. Khi đang hoang mang không hiểu chuyện gì xảy ra, đột nhiên một ý nghĩ chợt lóe trong đầu James. Có thể ai đó đã đặt thi thể khi anh không hay biết.Bạn có thể tìm ra cách đó để chứng minh James vô tội không?Peter phát hiện Ben chết trong phòng làm việc ở nhà. Peter kể với cảnh sát: "Tôi đi dạo ngang qua nhà Ben và muốn ghé vào thăm. Tôi thấy đèn bàn của anh ấy đang sáng nên nhìn từ bên ngoài vào để xem anh ấy có ở đó không. Trên cửa sổ có sương giá, vì vậy tôi phải lau nó đi mới nhìn được bên trong. Sau đó, tôi thấy Ben nằm ngửa trên ghế. Tưởng anh ấy ngủ nên tôi đi bấm chuông ở cửa trước. Mãi không thấy ai ra mở cửa, tôi linh cảm chuyện chẳng lành và gọi cảnh sát".Tuy nhiên, sau khi điều tra, cảnh sát bắt Peter vì nghi anh ta là thủ phạm sát hại Ben. Làm sao cảnh sát biết Peter nói dối?Một vụ tai nạn nghiêm trọng xảy ra trên đường cao tốc. Xe dã ngoại và xe tải đâm đầu nhau khi xe dã ngoại bất ngờ vượt vạch kẻ giữa đường. Tài xế xe tải cùng hai người trong xe dã ngoại, Leonard và Michael, đều thiệt mạng. Người duy nhất sống sót là Raymond.Khi cảnh sát thẩm vấn, Raymond nói Leonard là người lái xe, anh và Michael ngồi ở phía sau chơi bài và uống bia. Khi Michael đứng dậy đi lấy thêm đồ uống, xe của họ đâm vào xe tải, khiến Michael bị bắn ngược ra sau, đập đầu vào tay nắm cửa sau của ôtô. Raymond nói mình may mắn sống sót nhờ đang ngồi trên ghế khi tai nạn xảy ra. Nhân viên giám định pháp y cũng kết luận rằng Michael chết vì phần sau đầu bị đập vào cửa xe.Tuy nhiên cảnh sát cho rằng Raymond đang nói dối. Vì sao?Thám tử Ellroy đang điều tra một vụ án mạng và anh hoàn toàn không có manh mối cho đến khi nhận ra một thông điệp được gửi đến, ẩn trong nội dung quảng cáo bán biển số ôtô trên báo.Đây là mẩu quảng cáo trên báo mà thám tử tìm thấy:Bán biển số ôtô
+W 05 NWO
+H 13 HSR
+O 05 EBM
+D 08 UNE
+U 10 HTY
+N 04 BRE
+N 16 TTE
+I 26 LHC
+T 10 AEE
+I 26 CNA
+X 22 VDALàm thế nào thám tử biết nội dung quảng cáo trên là một manh mối? Bạn hãy thử giải mã và xác định thủ phạm.Theo 

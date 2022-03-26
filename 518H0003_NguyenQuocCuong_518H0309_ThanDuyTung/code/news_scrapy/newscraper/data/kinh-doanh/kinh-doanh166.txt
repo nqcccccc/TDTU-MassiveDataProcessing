@@ -1,0 +1,47 @@
+Viettel Solutions là một trong số đơn vị triển khai mô hình trung tâm điều hành (IOC) theo định hướng thành phố thông minh tại Việt Nam. Với
+lợi thế về công nghệ và đội ngũ nhân sự đông đảo, hiện đơn vị có mặt tại 28 tỉnh thành cả nước, trong đó có 19 dự án triển khai thử nghiệm, 9 dự
+án chính thức.Để có thể nhanh chóng triển khai các dự án ở mỗi địa phương khác nhau, Viettel Solutions vượt qua không ít rào cản, trong đó đặc thù vùng miền
+cũng như mong muốn riêng của từng tỉnh, thành buộc đơn vị phải linh hoạt nhiều giải pháp.Ông Nguyễn Mạnh Hổ, Tổng giám đốc Viettel Solutions dẫn chứng, thuộc vùng trung du miền núi phía Bắc, khi triển khai thành phố thông minh,
+Thái Nguyên mong muốn tập trung vào các vấn đề an ninh, an toàn đô thị. Trong khi đó, Thừa Thiên Huế - vùng đất văn hiến, có bề dày lịch sử, văn
+hoá lại muốn triển khai "smart city" thiên về văn hoá, du lịch, giải trí, nơi mà bất cứ người dân hay khách du lịch nào đến cũng có thể sử dụng
+nền tảng và phản ánh những bất cập trong đời sống đô thị lên chính quyền...Theo đó, 14 trung tâm thành phần gồm: nền tảng trung tâm điều hành thông minh; hệ thống giám sát điều hành an ninh; hệ thống giám sát điều
+hành giao thông; hệ thống phản ánh hiện trường; hệ thống giám sát thông tin báo chí và truyền thông; hệ thống giám sát, bảo mật an toàn thông
+tin; hệ thống phân tích dữ liệu và báo cáo thông tin kinh tế, xã hội; tích hợp hệ thống dữ liệu ngành giáo dục và ngành y tế...Theo ông Hổ, trước đây không ít người nghĩ Việt Nam thì phải rất lâu mới có thể tiếp cận chứ chưa nói có thể triển khai thành công. Bước qua
+rào cản mang tính tâm lý này, sau thời gian nghiên cứu, Viettel thấy rằng quan trọng nhất là cách tiếp cận. "Nếu chúng ta tiếp cận kiểu bê một mô
+hình của nước ngoài về thì rất khó khi triển khai ở một thành phố nào đó chứ chưa nói đến toàn quốc", lãnh đạo Viettel Solutions chia sẻ.Thay vì bê nguyên hoặc sao chép mô hình, Viettel đi từ nhu cầu của người dân, doanh nghiệp, chính quyền. "Chúng tôi nhìn vào những cái gì nóng
+nhất, chính đáng, bức xúc nhất trong xã hội để cố gắng đưa giải pháp công nghệ vào, để thông minh hoá, tự động hoá, giúp cải thiện các vấn đề
+đó", ông Hổ cho hay.Trở lại câu chuyện của Thừa Thiên Huế - điểm đến đầu tiên của mô hình The Smart Cities Award bởi có nhiều thuận lợi về hạ tầng công nghệ tin,
+các phần mềm ứng dụng cho chính quyền đã được xây dựng đầy đủ từ trước đó. Đặc biệt, nơi đây có sự đồng thuận cao từ cấp chính quyền tới người
+dân, tất cả đều sẵn sàng cho một thành phố thông minh tương lai.Với IOC, Huế đặt ra yêu cầu làm sao có kênh để người dân phản ánh ngay những bất cập trong đời sống đô thị. Đó là lý do cho sự ra đời của ứng
+dụng phản ánh hiện trường và nhận được nhiều phản hồi tích cực từ địa phương này.Trung tâm giám sát điều hành đô thị thông minh của Thừa Thiên Huế chỉ với 14 người trong một phiên trực để giám sát và điều hành hàng loạt
+dịch vụ đô thị, từ an ninh trật tự, giao thông, môi trường tới phòng chống cháy nổ... Theo đại diện lãnh đạo tỉnh, toàn bộ khối lượng công việc
+này trước đây cần tới hàng trăm cán bộ, nay nhờ những giải pháp thông minh chỉ giao cho 37 cán bộ của Sở thông tin và truyền thông Huế.Từ khi đi vào hoạt động đến nay, IOC Huế đã xử lý hàng nghìn phản ánh của người dân và nhận được những phản hồi tích cực từ cộng đồng, góp
+phần đẩy mạnh quá trình xây dựng đô thị thông minh tại Thừa Thiên Huế.Cũng theo lãnh đạo Huế, một lợi điểm khác khi chọn IOC là chi phí hợp lý, với nhiều lựa chọn để xây dựng theo từng giai đoạn, hơn nữa hệ thống
+có thể tương thích kết nối với tất cả những công cụ điện tử mà địa phương đã có từ trước.Nếu như Huế có nhiều lợi thế về hạ tầng công nghệ thì Thái Nguyên lại là một "vùng đất" hoàn toàn mới mẻ. Tuy nhiên, với tinh thần xây dựng,
+sẵn sàng hợp tác, các bên đã nhanh chóng có được sự đồng thuận và triển khai thuận lợi. Trong quá trình "may đo" thành phố thông minh tại Thái
+Nguyên, đội ngũ kỹ sư của Viettel nhận thấy, nơi đây là điển hình của vùng trung du miền núi phía Bắc với những vấn đề nổi cộm là an ninh, an
+toàn đô thị.Hiểu rõ thực trạng, đội kỹ kỹ sư tập trung chuyên sâu vào hệ thống giám sát điều hành an ninh; hệ thống giám sát điều hành giao thông; hệ
+thống phản ánh hiện trường; hệ thống phân tích dữ liệu và báo cáo thông tin kinh tế, xã hội... Theo đó, từ việc giải quyết các yêu cầu, phản ánh
+của công dân, cho đến giám sát các dịch vụ hành chính công, giám sát an toàn thông tin, quản lý dịch bệnh, tiêm chủng, di biến động dân cư, tất
+cả đều được theo dõi chặt chẽ từ IOC Thái Nguyên.Bà Nguyễn Thanh Hải - Bí thư tỉnh uỷ Thái Nguyên cho rằng: "Trung tâm IOC hình thành rất đúng thời điểm, giúp chúng tôi quản lý người tại khu
+cách ly cũng như quản lý xe ra vào tỉnh. Hơn nữa, việc tiếp nhận những phản ánh của người dân đã giúp chúng tôi hoàn thành mục tiêu kép vừa phát
+triển kinh tế vừa giúp địa phương vững vàng trong công tác phòng chống Covid-19".Ông Hoàng Minh Tâm, một người dân tại Thái Nguyên cũng chia sẻ, IOC dễ sử dụng, mang tính hiện đại cao, chất lượng nhanh, tiện lợi cho người
+dân, giúp người dân dễ tiếp cận với cơ quan nhà nước và ngược lại.Là người trực tiếp triển khai thành phố thông minh tại nhiều tỉnh thành trên cả nước, Tổng giám đốc Viettel Solutions cho biết, mô hình của tập
+đoàn đã có sẵn bộ khung chung. Các kỹ sư của tập đoàn sẽ dựa vào bộ khung đó kết hợp với nhu cầu, thực trạng của từng địa phương để điều chỉnh,
+cá thể hoá theo từng lĩnh vực, từ đó giúp việc triển khai đạt hiệu quả tối ưu. Đơn cử, Lạng Sơn - một tỉnh miền núi có những yêu cầu về ứng dụng
+môi trường, các điểm xả thải; hay như ở Bắc Trà My, Quảng Nam lại yêu cầu các ứng dụng về cảnh báo về lụt bão, sạt lở... với mỗi nhu cầu khác
+nhau, mô hình thành phố thông minh sẽ ứng biến linh hoạt.Trong thời gian tới, tập đoàn này sẽ tiếp tục triển khai thành phố thông minh tại nhiều địa phương ở Nam Định, Lai Châu, Phú Thọ, Thanh Hoá,
+TP HCM... mục tiêu đến 2025 Viettel sẽ trở thành đơn vị dẫn đầu thị trường về triển khai mô hình thành phố thông minh trên toàn quốc với tối
+thiểu 50% thị phần.Viettel hiểu rằng công nghệ chỉ hiệu quả nhất khi đơn giản, nhưng sự đơn giản đó phải được tạo ra bằng việc ứng dụng các công nghệ cao nhất,
+như big data, AI, IoT, để tạo ra những giải pháp dễ sử dụng nhất và có thể nhanh chóng đi vào cuộc sống. Hơn hết, yêu cầu chính yếu để tạo nên
+các dự án đô thị thông minh thành công là kiến thức sâu sát về các vấn đề của địa phương, nghiên cứu thấu đáo, quy hoạch tốt , hành động táo bạo
+và theo đuổi đến cùng. "Bằng cách đó đô thị thông minh mà chúng tôi đang triển khai tại các tỉnh thành không còn là khái niệm xa vời hay một viễn
+tưởng để trầm trồ mà có thể đi vào cuộc sống ngay hôm nay", ông Hổ khẳng định.Ngày 26/10 vừa qua, Viettel đạt giải thưởng thành phố thông minh (The Smart Cities Award) của Giải thưởng Truyền thông thế giới (World
+Communication Awards 2021). Đây là hạng mục nhằm tìm kiếm một giải pháp hoạt động hiệu quả và sáng tạo, đem lại lợi ích cho người dân và doanh
+nghiệp hướng tới cải thiện chất lượng cuộc sống cho người dân và tăng hiệu quả điều hành của chính quyền thành phố.Giải thưởng đánh giá dựa trên 5 tiêu chí: phạm vi ứng dụng của giải pháp; khả năng đáp ứng nhu cầu hoặc cải thiện cuộc sống của người dân;
+tính hoàn thiện so với các giải pháp hiện có trên thị trường; lợi ích giải pháp mang lại đối với người dân; vai trò của tổ chức, doanh nghiệp
+trong việc xây dựng thành phố thông minh.Chiến thắng trong hạng mục thành phố thông minh, Viettel là doanh nghiệp Việt được xướng tên bên cạnh các ông lớn trong làng công nghệ và viễn
+thông thế giới như Orange, Swisscom, Airtel, Ericsson, PCCW Global..."Đạt giải thưởng danh giá là dấu mốc rất quan trọng bởi chúng tôi đã vượt lên trên các đối thủ lớn trong giới công nghệ. Tôi nghĩ đây là cơ
+hội để thế giới công nhận nền tảng của Việt Nam, đồng thời giúp chúng tôi tự tin hơn trong việc thuyết phục các địa phương trải nghiệm, dùng thử
+và áp dụng giải pháp IOC - Trung tâm điều hành thông minh trên quy mô toàn quốc". ông Nguyễn Mạnh Hổ chia sẻ.
+Ảnh, Video: Thiết kế: 

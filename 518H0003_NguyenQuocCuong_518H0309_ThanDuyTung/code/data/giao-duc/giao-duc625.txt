@@ -1,0 +1,1 @@
+Với hình cho sẵn, trong 30 giây, bạn hãy di chuyển năm que diêm để được bốn hình tam giác.Loại bỏ ba que diêm để có ba hình tam giác.Di chuyển hai que diêm để được hai hình vuông.Di chuyển ba que diêm để được bốn hình vuông bằng nhau.Theo 

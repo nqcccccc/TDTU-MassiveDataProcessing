@@ -1,0 +1,9 @@
+Dựa vào hình vẽ và khả năng phân tích, bạn hãy giúp cảnh sát xử lý vụ cướp trên phố và vụ trộm ở ngân hàng.Một khách du lịch đến đồn cảnh sát, thông báo: "Tôi vừa mới đến thành phố này và đang đi dạo xung quanh thì một người đàn ông cầm súng xông ra, cướp đồng hồ".Cảnh sát kiểm ra dữ liệu từ camera giám sát và xác định được nghi phạm là một trong năm anh em tham gia một lừa đảo, có tên: Lou, Lo, La, Lee và Liu. Cảnh sát cho khách du lịch xem ảnh năm người để nhận diện.Bạn có đoán được ai là kẻ cướp? Một người đàn ông được tìm thấy chết trên cánh đồng tuyết. Bằng chứng duy nhất còn lại là dấu chân giữa 2 đường thẳng song song.Cảnh sát cần tìm nghi phạm có đặc điểm gì?Tìm tên của kẻ giết người và nạn nhân trong năm người đàn ông dưới đây.Đây là những manh mối bạn có:1. Một trong số họ đã bắn chết một trong bốn người còn lại.
+2. Dan tham gia cuộc thi chạy marathon ngày hôm qua với một trong những người vô tội.
+3. Mike là một nông dân trước khi chuyển đến thành phố.
+4. Jeff là một nhà tư vấn máy tính hàng đầu và muốn cài đặt máy tính mới của Ben vào tuần tới.
+5. Kẻ sát nhân đã bị cắt cụt chân vào tháng trước.
+6. Ben gặp Jack lần đầu tiên cách đây sáu tháng.
+7. Jack sống ẩn dật từ sau vụ án.
+8. Ben và Jeff đã cùng nhau xây dựng những chiếc máy tính cuối cùng của họ.
+9. Kẻ sát nhân là anh trai của Jack. Họ lớn lên cùng nhau ở Seattle. Một ngân hàng bị mất trộm trong vụ hỏa hoạn. Nhân viên bảo vệ nói khi vận chuyển túi tiền đến trước cửa thoát hiểm, anh ta phải cúi xuống buộc lại dây giày. Lúc này cánh cửa bị đẩy ra và đập mạnh vào đầu. Khi anh ta tỉnh lại, túi tiền biến mất.Nhân viên bảo vệ bị cảnh sát bắt. Vì sao vậy?Theo 

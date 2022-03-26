@@ -1,0 +1,6 @@
+"Since" dùng cho mốc thời gian, "for" chỉ khoảng thời gian, trong khi "on" đứng trước ngày, còn "in" đi với năm.- At: Giờ, dịp, thời điểm
+- On: Ngày
+- In: Phút, buổi, mùa, năm, thế kỷ
+- Since: Mốc thời gian (thì hiện tại hoàn thành)
+- For: Khoảng thời gian (thì hiện tại hoàn thành)
+- From.... to...: Từ khi.... đến khi...

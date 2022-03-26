@@ -1,0 +1,1 @@
+Với phép tính 5 - 3 + 6 = 9 đã cho, trong 15 giây, bạn hãy bổ sung một que diêm để có kết quả đúng.Bạn sẽ đặt thêm một que diêm ở đâu để tạo ra phép tính đúng?Hãy đặt thêm hai que diêm để có phép tính đúng.Theo 

@@ -1,0 +1,1 @@
+Cho dãy số 16, 06, 68, 88..., 98, trong 20 giây bạn có tìm ra quy luật của chúng và điền đúng số còn thiếu vào dấu hỏi chấm?Nhóm những que diêm nào khác biệt nhất?Bạn cần tạo ra hai hình vuông chỉ với hai lần di chuyển que diêm.Hãy kết nối 9 chấm tròn này bằng bốn đường thẳng.Theo 

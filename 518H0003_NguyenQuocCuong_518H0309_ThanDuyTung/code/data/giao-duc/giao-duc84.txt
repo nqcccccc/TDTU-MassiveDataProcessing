@@ -1,0 +1,1 @@
+Mỗi hình tròn đều được chia thành bốn phần bằng nhau, mỗi phần được điền một số. Liệu bạn có tìm được mối liên hệ giữa các số này và điền đáp án vào dấu hỏi chấm?Sử dụng sáu số đã cho bên phải để điền vào các vị trí có dấu hỏi chấm, sao cho tổng của ba số trên một cạnh của tam giác đều bằng 20.Điền các số đã cho vào vị trí thích hợp để có phép tính đúng.Theo 

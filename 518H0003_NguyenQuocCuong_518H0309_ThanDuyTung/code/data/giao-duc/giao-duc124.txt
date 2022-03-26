@@ -1,0 +1,1 @@
+Nếu 1 + 4 = 5, 2 + 5 = 12, 3 + 6 = 21, trong 45 giây, bạn hãy tìm ra quy luật của các phép tính trên để điền đúng kết quả của 9 + 13 =?Hình đã cho nếu nhìn từ trên xuống sẽ trông như thế nào?Kết quả của phép tính cuối cùng là bao nhiêu?Điền đáp án vào dấu hỏi chấm.Theo 

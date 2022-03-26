@@ -1,0 +1,1 @@
+Bằng cách di chuyển 1-3 que diêm tùy từng hình, bạn có thể tạo ra những phép tính, số hình theo yêu cầu?Di chuyển một que diêm để được phép tính đúng.Di chuyển một que diêm để được phép tính đúng. Di chuyển hai que diêm để tạo thành 5 hình vuông. Di chuyển 3 que diêm để được 11 hình vuông.Theo 

@@ -1,0 +1,1 @@
+Nếu 00=2, 1752=0, 2061=2, 4341=0, 4096=3, trong một phút, bạn hãy tìm quy luật để điền kết quả cho phép tính 1985=?Điền kết quả vào dấu hỏi chấm.Điền số thích hợp vào dấu hỏi chấm.Theo 
